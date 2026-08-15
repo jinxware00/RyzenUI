@@ -2627,6 +2627,14 @@ end
 
 pcall(function() getgenv().Library = Arcane end)
 pcall(function() getgenv().ArcaneLib = Arcane end)
+pcall(function()
+    local env = getfenv and getfenv() or nil
+    if type(env) == "table" then
+        env.RyzenUI = Arcane
+        env.ArcaneLib = Arcane
+        env.Library = Arcane
+    end
+end)
 pcall(function() _G.Library = Arcane end)
 pcall(function() _G.ArcaneLib = Arcane end)
 pcall(function()
