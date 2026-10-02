@@ -12,7 +12,7 @@ A UI library for Luau.
 
 ## Usage
 
-Check the examples in the repository to see how Ryzen UI works.
+Check the [examples](https://github.com/jinxware00/RyzenUI/blob/main/Example.lua) in the repository to see how Ryzen UI works.
 
 ## License
 
