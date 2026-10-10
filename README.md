@@ -5,18 +5,16 @@ A UI library for Luau.
 ## Features
 
 * Custom UI components
-* Simple API
 * Customisable
 * Lightweight
-* Modular
 
 ## Usage
 
-Check the [examples](https://github.com/jinxware00/RyzenUI/blob/main/Example.lua) in the repository to see how Ryzen UI works.
+Check the [examples](https://github.com/jinxware00/RyzenUI/blob/main/Example.lua) in the to see how Ryzen UI works.
 
 ## License
 
-Ryzen UI uses the Jinxware License.
+Ryzen UI uses a custom License.
 
 You can use Ryzen UI as a library in your projects, but you cannot take individual parts of the library and use or redistribute them separately.
 
@@ -24,4 +22,4 @@ See [LICENSE](LICENSE) for the full terms.
 
 ## Credits
 
-Made by Jinxware.
+Made by jinxware00 .
