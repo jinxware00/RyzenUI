@@ -12,7 +12,7 @@ Build custom interfaces with reusable components and configurable styling.
 
 [![Language](https://img.shields.io/badge/Language-Luau-00A2FF?style=flat-square&logo=lua&logoColor=white)](https://luau.org/)
 [![Repository](https://img.shields.io/badge/Project-Ryzen%20UI-252525?style=flat-square&logo=github)](https://github.com/jinxware00/RyzenUI)
-[![License](https://img.shields.io/badge/License-Custom-8B5CF6?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-8B5CF6?style=flat-square)](LICENSE)
 
 </div>
 
