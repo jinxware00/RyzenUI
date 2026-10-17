@@ -73,14 +73,6 @@ For usage examples and implementation details, see:
 - [Source code](https://github.com/jinxware00/RyzenUI)
 - [License](LICENSE)
 
-## License
-
-Ryzen UI is distributed under a custom license.
-
-You may use Ryzen UI as a library within your projects, subject to the license terms. You may not extract, separately use, or redistribute individual parts of the library as standalone components.
-
-Read [`LICENSE`](LICENSE) for the complete terms and restrictions.
-
 ## Credits
 
 Created and maintained by [@jinxware00](https://github.com/jinxware00).
